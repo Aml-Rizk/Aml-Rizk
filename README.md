@@ -1,18 +1,12 @@
 ## Hi 👋, I'm Aml Rizk
-<h1 align="center">Hi 👋, I'm Salma Mamdoh</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Vujahday+Script&color=%23876CF7&size=35&pause=1000&width=435&lines=Welcome+to+Salma's+GitHub!;Passionate+about+Data%26+AI." alt="Typing SVG" />
-  </a>
-</p>
 
 # 💫 About Me:
 👩🏻‍💻 Software Engineering Student at Karabuk University<br>💡 Passionate about Software Development and AI <br>🌱  Always exploring new technologies and solving real-world problems
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/aml-rizk-b5547530a//) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aml-rizk-b5547530a/)
+
 
 
 
@@ -38,16 +32,4 @@
 
 
 
-**Aml-Rizk/Aml-Rizk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
