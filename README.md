@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Aml Rizk
 
 # 💫 About Me:
-👩🏻‍💻 Software Engineering Student at Karabuk University<br>💡 Always Passionate about learning new technologies and constantly seeking ways to enhance my skills and knowledge
+👩🏻‍💻 Software Engineering Student at Karabuk University<br>💡 Passionate about learning new technologies and constantly seeking ways to enhance my skills and knowledge
 
 
 ## 🌐 Socials:
