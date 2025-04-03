@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Aml Rizk
+## Hi 👋, I'm Aml Rizk
 
 <!--
 **Aml-Rizk/Aml-Rizk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
