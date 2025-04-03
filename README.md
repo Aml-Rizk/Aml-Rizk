@@ -5,7 +5,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aml-rizk-b5547530a/) [Email Me](mailto:amlrizk0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aml-rizk-b5547530a/) <a href="mailto:amlrizk0@gmail.com" style="background-color: red; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block;">Email Me</a>
+
 
 
 
