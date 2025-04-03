@@ -25,14 +25,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/> 
 
 
-
-### Databases:
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=flat-square&logo=oracle&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
-
-
-
-### Design & Visualization:
+**Design & Visualization:** 
 ![Canva](https://img.shields.io/badge/Canva-%230080FF.svg?style=flat-square&logo=Canva&logoColor=white)
 
 
