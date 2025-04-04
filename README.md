@@ -10,7 +10,7 @@
 
 
 
-## 🧰 &nbsp;My Toolbox
+# 💻 Tech Stack:
 
 
 ### Programming Languages:
